@@ -16,6 +16,6 @@ int main() {
 		scanf("%s",&consulta); 
 	}
 	mitja=suma/numero_repeticions;
-	printf("montejo22",mitja);	
+	printf("montejo22 %.2f\n",mitja);	
 	return 0;
 }
